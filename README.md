@@ -1,11 +1,8 @@
 # Online Library System
 
 ## Installation
-
-1. Clone the repository:
-3. Install dependencies: npm install
-
-2. Navigate into the directory:
+ Install dependencies: npm install
+ Navigate into the directory:
 cd onlinelibry
 
 ## Running the Application 
